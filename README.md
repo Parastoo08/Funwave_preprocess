@@ -1,2 +1,1 @@
-# Funwave_preprocess
-These are the codes for preparing Funwave inputs to model tsunami in cartesian and spherical coordinates
+This code read bathymetry file from netcdf format and convert it to the funwave format with a known resolution
